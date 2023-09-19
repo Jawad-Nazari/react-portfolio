@@ -7,6 +7,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.9",
+    "@babel/plugin-proposal-private-property-in-object": "^7.18.12",
     "aos": "^2.3.4",
     "emailjs-com": "^3.2.0",
     "prop-types": "^15.8.1",
