@@ -14,7 +14,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/JFdM3dR/CCT.jpg"
+                src="https://i.ibb.co/qMQ600W/CCT.webp"
                 alt="Crypto Currency Tracker project screenshot"
               />
             </div>
@@ -61,7 +61,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/QrmKVww/Bookstore-react.jpg"
+                src="https://i.ibb.co/s197Y2Y/Bookstore-react.webp"
                 alt="Bookstore react project screenshot"
               />
             </div>
@@ -108,7 +108,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/BZ6FrjZ/Math-Magicians-copy.jpg"
+                src="https://i.ibb.co/0DyVx0J/Math-Magicians.webp"
                 alt="Math-Magicians Project screenshot"
               />
             </div>
@@ -156,7 +156,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/HtHBfqg/Speakers-Capestone.jpg"
+                src="https://i.ibb.co/52Wppbk/Speakers-Capestone.webp"
                 alt="Web Development"
               />
             </div>
@@ -202,7 +202,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/NLJ8DQ7/Space-Traveler.jpg"
+                src="https://i.ibb.co/crjbqh8/Space-Traveler.webp"
                 alt="Space Travelers Hub project screenshot"
               />
             </div>
