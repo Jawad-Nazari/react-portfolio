@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import { ThemeContext } from '../../Context/theme';
-import Image from '../../assets/J-N-T.png';
+import Image from '../../assets/logo.webp';
 
 import './Header.css';
 
