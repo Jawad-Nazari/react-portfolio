@@ -6,10 +6,6 @@
   justify-content: space-between;
 }
 
-.nazari {
-  color: #fa8704;
-}
-
 @media (max-width: 600px) {
   .header {
     height: 6em;

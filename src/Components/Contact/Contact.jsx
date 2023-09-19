@@ -62,7 +62,12 @@ const Contact = () => {
             >
               <CgMail className="email" />
             </a>
-            <a href="tel:+923140970147" target="_blank" rel="noreferrer">
+            <a
+              href="tel:+923140970147"
+              aria-label="Jawad Phone Number"
+              target="_blank"
+              rel="noreferrer"
+            >
               <BsFillTelephoneFill className="phone" />
             </a>
           </div>
