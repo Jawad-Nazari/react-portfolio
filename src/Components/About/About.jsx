@@ -5,9 +5,9 @@ import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
-import Type from './Type.js';
-import Introduction from './Introduction.js';
-import Techstacks from './Techstacks.js';
+import Type from './Type';
+import Introduction from './Introduction';
+import Techstacks from './Techstacks';
 
 const About = () => (
   <>
