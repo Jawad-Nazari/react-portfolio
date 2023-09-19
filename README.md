@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo](https://elaborate-halva-fa84bd.netlify.app/)
+ - [Live Demo](https://jawad-nazari-portfolio.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
