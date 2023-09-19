@@ -31,19 +31,18 @@ const Contact = () => {
 
   return (
     <>
-      <div className="section">
+      <section className="section">
         <h2 className="section__title">
           Get in
           <span className="different"> Touch</span>
         </h2>
         <div className="contactMain">
-          <div
-            className={`contactcontainer ${themename}`}
-          >
+          <div className={`contactcontainer ${themename}`}>
             <a
               href="https://www.linkedin.com/in/Jawad-Nazari/"
               target="_blank"
               rel="noreferrer"
+              aria-label="LinkedIn Profile"
             >
               <FaLinkedin className="linkedin" />
             </a>
@@ -51,6 +50,7 @@ const Contact = () => {
               href="https://github.com/Jawad-Nazari/"
               target="_blank"
               rel="noreferrer"
+              aria-label="Github Profile"
             >
               <VscGithub className="github" />
             </a>
@@ -58,6 +58,7 @@ const Contact = () => {
               href="mailto:Jawad.Nazari@outlook.com"
               target="_blank"
               rel="noreferrer"
+              aria-label="Jawad Email address"
             >
               <CgMail className="email" />
             </a>
@@ -87,13 +88,23 @@ const Contact = () => {
         {successMessage && (
           <div className="contactcontainer">{successMessage}</div>
         )}
-      </div>
+      </section>
 
       <div className="contactForm">
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name="user_name" placeholder="Your Name" />
-          <input type="email" name="user_email" placeholder="Your Email" />
-          <textarea name="message" placeholder="Your Message" />
+          <input
+            type="text"
+            id="user_name"
+            name="user_name"
+            placeholder="Your Name"
+          />
+          <input
+            type="email"
+            id="user_email"
+            name="user_email"
+            placeholder="Your Email"
+          />
+          <textarea id="message" name="message" placeholder="Your Message" />
           <button type="submit">Send Message</button>
         </form>
       </div>

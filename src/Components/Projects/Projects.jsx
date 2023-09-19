@@ -8,16 +8,14 @@ import { IoLogoJavascript } from 'react-icons/io';
 const Projects = () => (
   <>
     <div className="section">
-      <h2 className="section__title different">
-        Projects
-      </h2>
+      <h2 className="section__title different">Projects</h2>
       <div className="projects_container">
         <div className="project">
           <div className="project_videocontainer">
             <div>
               <img
                 src="https://i.ibb.co/sVjzsn2/CCTA.jpg"
-                alt="Crypto Currency Tracker"
+                alt="Crypto Currency Tracker project screenshot"
               />
             </div>
           </div>
@@ -30,10 +28,10 @@ const Projects = () => (
               home page.
             </p>
             <div>
-              <FaReact />
-              <SiHtml5 />
-              <IoLogoJavascript />
-              <BiSolidFileCss />
+              <FaReact title="React" />
+              <BiSolidFileCss title="CSS" />
+              <SiHtml5 title="HTML5" />
+              <IoLogoJavascript title="JavaScript" />
             </div>
             <div>
               <a
@@ -64,7 +62,7 @@ const Projects = () => (
             <div>
               <img
                 src="https://i.ibb.co/kJbFDWV/Bookstore-react.jpg"
-                alt="Bookstore"
+                alt="Bookstore react project screenshot"
               />
             </div>
           </div>
@@ -77,10 +75,10 @@ const Projects = () => (
               information such as the book title, author, and category.
             </p>
             <div>
-              <FaReact />
-              <IoLogoJavascript />
-              <FaReact />
-              <BiSolidFileCss />
+              <FaReact title="React" />
+              <BiSolidFileCss title="CSS" />
+              <SiHtml5 title="HTML5" />
+              <IoLogoJavascript title="JavaScript" />
             </div>
             <div>
               <a
@@ -111,7 +109,7 @@ const Projects = () => (
             <div>
               <img
                 src="https://i.ibb.co/rfp4yFQ/Math-Magicians.jpg"
-                alt="Math-Magicians"
+                alt="Math-Magicians Project screenshot"
               />
             </div>
           </div>
@@ -125,9 +123,10 @@ const Projects = () => (
               interesting mathematical fact.
             </p>
             <div>
-              <IoLogoJavascript />
-              <FaReact />
-              <BiSolidFileCss />
+              <FaReact title="React" />
+              <BiSolidFileCss title="CSS" />
+              <SiHtml5 title="HTML5" />
+              <IoLogoJavascript title="JavaScript" />
             </div>
             <div>
               <a
@@ -171,9 +170,9 @@ const Projects = () => (
               and JavaScript technologies.
             </p>
             <div>
-              <IoLogoJavascript />
-              <SiHtml5 />
-              <BiSolidFileCss />
+              <BiSolidFileCss title="CSS" />
+              <SiHtml5 title="HTML5" />
+              <IoLogoJavascript title="JavaScript" />
             </div>
             <div>
               <a
@@ -204,7 +203,7 @@ const Projects = () => (
             <div>
               <img
                 src="https://i.ibb.co/9sw4Vf1/Space-Traveler.jpg"
-                alt="Space Travelers Hub"
+                alt="Space Travelers Hub project screenshot"
               />
             </div>
           </div>
@@ -217,10 +216,10 @@ const Projects = () => (
               React and Redux toolkit.
             </p>
             <div>
-              <FaReact />
-              <SiHtml5 />
-              <BiSolidFileCss />
-              <IoLogoJavascript />
+              <FaReact title="React" />
+              <BiSolidFileCss title="CSS" />
+              <SiHtml5 title="HTML5" />
+              <IoLogoJavascript title="JavaScript" />
             </div>
             <div>
               <a
