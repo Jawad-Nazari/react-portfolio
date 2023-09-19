@@ -14,7 +14,7 @@ const Header = () => {
         <h4>
           <a href="#home" className="link">
             <span>
-              <img src={Image} alt="logo" />
+              <img src={Image} alt="logo" width="100" height="100" />
               Jawad Nazari
             </span>
           </a>
