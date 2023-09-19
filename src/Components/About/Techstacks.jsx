@@ -17,24 +17,24 @@ import { BsBootstrap } from 'react-icons/bs';
 
 const Techstacks = () => (
   <>
-    <div className="section main" data-aos="fade-right">
+    <div className="section main">
       <h2 className="section__title different">Skills</h2>
       <div className="techsection">
         <div>
           <SiJavascript />
-          <h5>Javascript</h5>
+          <p>Javascript</p>
         </div>
         <div>
           <SiHtml5 />
-          <h5>HTML</h5>
+          <p>HTML</p>
         </div>
         <div>
           <DiCss3 />
-          <h5>CSS</h5>
+          <p>CSS</p>
         </div>
         <div>
           <BsBootstrap />
-          <h5>Bootstrap</h5>
+          <p>Bootstrap</p>
         </div>
         <div>
           <FaReact />
@@ -42,31 +42,31 @@ const Techstacks = () => (
         </div>
         <div>
           <SiRedux />
-          <h5>Redux</h5>
+          <p>Redux</p>
         </div>
         <div>
           <DiRuby />
-          <h5>Ruby</h5>
+          <p>Ruby</p>
         </div>
         <div>
           <SiRubyonrails />
-          <h5>Rails</h5>
+          <p>Rails</p>
         </div>
         <div>
           <VscGithub />
-          <h5>Github</h5>
+          <p>Github</p>
         </div>
         <div>
           <SiMysql />
-          <h5>mySQL</h5>
+          <p>mySQL</p>
         </div>
         <div>
           <SiPostgresql />
-          <h5>PostgreSQL</h5>
+          <p>PostgreSQL</p>
         </div>
         <div>
           <GrVmware />
-          <h5>vmWare</h5>
+          <p>vmWare</p>
         </div>
       </div>
     </div>

@@ -12,12 +12,12 @@ import Techstacks from './Techstacks';
 const About = () => (
   <>
     <div className="about center">
-      <h1 data-aos="fade-right" className="mobileHead">
+      <h1 className="mobileHead">
         Hello, I am
         <span className="about__name"> Jawad Nazari</span>
       </h1>
       <Type />
-      <p className="about__desc" data-aos="fade-right">
+      <p className="about__desc">
         Passionate Full Stack Developer having proficiency in Information
         Technology. I love working on challenging projects and always aim to
         produce high-quality and maintainable code.
