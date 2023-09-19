@@ -30,35 +30,35 @@ const Introduction = () => {
                 that offer an outstanding user experience. I collaborate closely
                 with clients, translating their ideas into reality.
               </h4>
-              <h4>Terms That can describe me apart form Coding :</h4>
-              <h4 className="different">
+              <h5>Terms That can describe me apart form Coding :</h5>
+              <h5 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Team Player
                 {' '}
-              </h4>
-              <h4 className="different">
+              </h5>
+              <h5 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Continuous Learner
                 {' '}
-              </h4>
-              <h4 className="different">
+              </h5>
+              <h5 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Problem Solver
                 {' '}
-              </h4>
-              <h4 className="different">
+              </h5>
+              <h5 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Tech Enthusiast
                 {' '}
-              </h4>
+              </h5>
             </div>
           </div>
         </div>
