@@ -21,15 +21,14 @@ const Introduction = () => {
             </div>
             <div className="introduction_datacontainer">
               <h4>
-                Hi, I&apos;m a full-stack developer with a passion for
-                solving mysteries and overcoming challenges.
-                My expertise lies in crafting
-                exceptional web applications using JavaScript, React, Redux,
-                Ruby on Rails, and PostgreSQL. I am passionate about creating
-                top-notch products and continuously seek new challenges. My
-                ultimate objective is to deliver web applications that offer an
-                outstanding user experience. I collaborate closely with clients,
-                translating their ideas into reality.
+                Hi, I&apos;m a full-stack developer with a passion for solving
+                mysteries and overcoming challenges. My expertise lies in
+                crafting exceptional web applications using JavaScript, React,
+                Redux, Ruby on Rails, and PostgreSQL. I am passionate about
+                creating top-notch products and continuously seek new
+                challenges. My ultimate objective is to deliver web applications
+                that offer an outstanding user experience. I collaborate closely
+                with clients, translating their ideas into reality.
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>
               <h4 className="different">
