@@ -20,7 +20,7 @@ const Introduction = () => {
               <img src={profilePic} alt="Images" />
             </div>
             <div className="introduction_datacontainer">
-              <h4>
+              <p>
                 Hi, I&apos;m a full-stack developer with a passion for solving
                 mysteries and overcoming challenges. My expertise lies in
                 crafting exceptional web applications using JavaScript, React,
@@ -29,37 +29,37 @@ const Introduction = () => {
                 challenges. My ultimate objective is to deliver web applications
                 that offer an outstanding user experience. I collaborate closely
                 with clients, translating their ideas into reality.
-              </h4>
+              </p>
               <br />
-              <h5>Terms That can describe me apart form Coding :</h5>
-              <h6 className="different">
+              <p>Terms That can describe me apart form Coding :</p>
+              <p className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Team Player
                 {' '}
-              </h6>
-              <h6 className="different">
+              </p>
+              <p className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Continuous Learner
                 {' '}
-              </h6>
-              <h6 className="different">
+              </p>
+              <p className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Problem Solver
                 {' '}
-              </h6>
-              <h6 className="different">
+              </p>
+              <p className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 Tech Enthusiast
                 {' '}
-              </h6>
+              </p>
             </div>
           </div>
         </div>

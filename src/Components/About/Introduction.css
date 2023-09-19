@@ -3,7 +3,7 @@
 }
 
 .introduction {
-  width: 100%;
+  width: 90%;
   display: flex;
   margin-top: 4em;
   margin-bottom: 4em;
@@ -30,17 +30,17 @@
   flex-basis: 65%;
 }
 
-.introduction_datacontainer > h4 {
+.introduction_datacontainer > p {
   font-size: 1em;
   margin-top: 0.5em;
 }
 
-.introduction_datacontainer > h4:nth-child(1) {
+.introduction_datacontainer > p:nth-child(1) {
   margin-top: 0;
   line-height: 1.4em;
 }
 
-.introduction_datacontainer > h4:nth-child(2) {
+.introduction_datacontainer > p:nth-child(2) {
   margin-top: 1.4em;
   line-height: 1.4em;
 }
@@ -73,6 +73,6 @@
   .introduction_datacontainer {
     padding-left: 10%;
     padding-right: 10%;
-    flex-basis: 70%;
+    flex-basis: 60%;
   }
 }
