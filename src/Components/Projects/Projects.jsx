@@ -14,7 +14,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/qMQ600W/CCT.webp"
+                src="https://i.imgur.com/at18fVy.jpg"
                 alt="Crypto Currency Tracker project screenshot"
               />
             </div>
@@ -35,7 +35,7 @@ const Projects = () => (
             </div>
             <div>
               <a
-                href="https://jawad-cryptoapp.onrender.com/"
+                href="https://young-night-9226.on.fleek.co/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -61,7 +61,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/s197Y2Y/Bookstore-react.webp"
+                src="https://i.imgur.com/v4udTQy.jpg"
                 alt="Bookstore react project screenshot"
               />
             </div>
@@ -82,7 +82,7 @@ const Projects = () => (
             </div>
             <div>
               <a
-                href="https://bookstore-jpu9.onrender.com/"
+                href="https://floral-credit-8015.on.fleek.co//"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -108,7 +108,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/0DyVx0J/Math-Magicians.webp"
+                src="https://i.imgur.com/ppVQMpz.jpg"
                 alt="Math-Magicians Project screenshot"
               />
             </div>
@@ -130,7 +130,7 @@ const Projects = () => (
             </div>
             <div>
               <a
-                href="https://math-magicians-jawad-nazari.onrender.com/calculator/"
+                href="https://celebrated-malasada-7bd6f1.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -156,7 +156,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/52Wppbk/Speakers-Capestone.webp"
+                src="https://i.imgur.com/ausvC7a.jpg"
                 alt="Web Development"
               />
             </div>
@@ -202,7 +202,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.ibb.co/crjbqh8/Space-Traveler.webp"
+                src="https://i.imgur.com/LBCtpnV.jpg"
                 alt="Space Travelers Hub project screenshot"
               />
             </div>
@@ -223,7 +223,7 @@ const Projects = () => (
             </div>
             <div>
               <a
-                href="https://space-travelers-hub-pcqh.onrender.com/rockets"
+                href="https://cold-term-3612.on.fleek.co/"
                 target="_blank"
                 rel="noreferrer"
               >

@@ -3,12 +3,13 @@
   margin-top: 3em;
 }
 
-.about__name {
-  color: var(--clr-primary);
+.mobileHead {
+  margin-top: 4em;
   font-size: 3rem;
 }
 
-.mobileHead {
+.about__name {
+  color: var(--clr-primary);
   font-size: 3rem;
 }
 
@@ -57,10 +58,10 @@
   .mobileHead {
     align-content: center;
     margin-left: 0.2em;
+    margin-top: 2em;
   }
 
   .app .about {
-    /* align-items: flex-start; */
     margin-top: 2em;
     justify-content: center;
     align-items: center;

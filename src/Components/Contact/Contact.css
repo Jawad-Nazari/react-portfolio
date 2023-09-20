@@ -1,7 +1,7 @@
 .contactcontainer {
   display: flex;
   justify-content: space-between;
-  padding-top: 2em;
+  padding-top: 0.5em;
   width: 450px;
   border-radius: 20px;
   background-color: transparent;
@@ -113,7 +113,7 @@
   height: 50px;
   cursor: pointer;
   padding: 0 30px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .contactForm button:hover {
@@ -128,6 +128,7 @@
 
   .contactcontainer {
     width: 100%;
+    margin-top: 0.2em;
   }
 
   .mailNumber {

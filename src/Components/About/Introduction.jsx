@@ -2,7 +2,7 @@ import React from 'react';
 import './Introduction.css';
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { ThemeContext } from '../../Context/theme';
-import profilePic from '../../assets/My profile pic.webp';
+import profilePic from '../../assets/My profile pic.jpg';
 
 const Introduction = () => {
   const [{ themename }] = React.useContext(ThemeContext);
