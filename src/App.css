@@ -101,6 +101,9 @@ main {
 .btn--outline:hover,
 .btn--outline:focus {
   color: var(--clr-bg);
+  background-color: var(--clr-primary);
+
+  /* color: var(--clr-bg); */
 }
 
 .btn--outline::before {
@@ -151,8 +154,8 @@ main {
 
   .section__title {
     text-align: center;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
     text-transform: uppercase;
-    margin-top: 2.4em;
+    margin-top: 2em;
   }
 }

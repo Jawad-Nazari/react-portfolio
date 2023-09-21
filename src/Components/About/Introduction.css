@@ -54,14 +54,21 @@
 }
 
 @media (max-width: 767px) {
+  .section {
+    padding: 0.5em;
+  }
+
   .introduction {
     flex-direction: column;
-    margin-top: 2em;
   }
 
   .introduction_logocontainer {
-    margin-bottom: 3em;
+    margin-bottom: 1.5em;
     flex-basis: 30%;
+  }
+
+  .introduction_logocontainer > div {
+    margin-bottom: 0.5em;
   }
 
   .introduction_logocontainer > img {
@@ -72,14 +79,15 @@
   }
 
   .introduction_datacontainer {
-    padding-left: 10%;
-    padding-right: 10%;
     flex-basis: 60%;
   }
 
   .introduction_datacontainer > p {
     font-size: 1em;
-    margin-top: 0.2em;
+    margin-top: 0.1em;
     line-height: 1.2em;
+    text-align: left;
+    margin-left: 0.5em;
+    margin-right: -0.5em;
   }
 }

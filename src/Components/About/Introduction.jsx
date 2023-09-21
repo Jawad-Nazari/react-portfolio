@@ -17,7 +17,7 @@ const Introduction = () => {
           </h2>
           <div className={`introduction ${themename}`}>
             <div className="introduction_logocontainer">
-              <img src={profilePic} alt="Images" />
+              <img src={profilePic} alt="Jawad Profile Pic" />
             </div>
             <div className="introduction_datacontainer">
               <p>

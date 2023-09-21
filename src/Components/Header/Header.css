@@ -15,6 +15,10 @@
 
 @media (max-width: 600px) {
   .header {
-    height: 4em;
+    height: 3em;
+  }
+
+  h4 {
+    font-size: 1.2em;
   }
 }

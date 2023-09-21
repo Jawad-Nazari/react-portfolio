@@ -4,6 +4,11 @@ import { FaReact } from 'react-icons/fa';
 import { BiSolidFileCss } from 'react-icons/bi';
 import { SiHtml5 } from 'react-icons/si';
 import { IoLogoJavascript } from 'react-icons/io';
+import speakers from '../../assets/Speakers.jpg';
+import bookstore from '../../assets/bookstore.jpg';
+import mathmagicians from '../../assets/Math-Magician.jpg';
+import CCTA from '../../assets/CCTA.jpg';
+import Spacetravaler from '../../assets/Space-Traveler.jpg';
 
 const Projects = () => (
   <>
@@ -14,7 +19,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.imgur.com/at18fVy.jpg"
+                src={CCTA}
                 alt="Crypto Currency Tracker project screenshot"
               />
             </div>
@@ -61,7 +66,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.imgur.com/v4udTQy.jpg"
+                src={bookstore}
                 alt="Bookstore react project screenshot"
               />
             </div>
@@ -108,7 +113,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.imgur.com/ppVQMpz.jpg"
+                src={mathmagicians}
                 alt="Math-Magicians Project screenshot"
               />
             </div>
@@ -154,9 +159,9 @@ const Projects = () => (
       <div className="projects_container">
         <div className="project">
           <div className="project_videocontainer">
-            <div>
+            <div className="image-container">
               <img
-                src="https://i.imgur.com/ausvC7a.jpg"
+                src={speakers}
                 alt="Web Development"
               />
             </div>
@@ -202,7 +207,7 @@ const Projects = () => (
           <div className="project_videocontainer">
             <div>
               <img
-                src="https://i.imgur.com/LBCtpnV.jpg"
+                src={Spacetravaler}
                 alt="Space Travelers Hub project screenshot"
               />
             </div>

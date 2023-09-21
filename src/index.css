@@ -51,6 +51,11 @@ button {
   cursor: pointer;
 }
 
+/* img {
+  max-width: 100%;
+  display: block;
+} */
+
 body {
   background-color: var(--clr-bg);
   color: var(--clr-fg);
