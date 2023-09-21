@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import { ThemeContext } from '../../Context/theme';
+import logo from '../../assets/J-N-T.png';
 
 import './Header.css';
 
@@ -9,12 +10,12 @@ const Header = () => {
   return (
     <>
       <div className="sticky-container">
-        <header
-          className={`header center ${themename}`}
-        >
+        <header className={`header center ${themename}`}>
           <h4>
+            <img src={logo} alt="J-N" />
             <a href="#home" className="link">
-              <span>Jawad Nazari</span>
+              <span>Jawad</span>
+              <span className="nazari"> Nazari</span>
             </a>
           </h4>
           <Navbar />

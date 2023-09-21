@@ -75,7 +75,7 @@ const About = () => (
         className="btnResume"
         onClick={() => {
           window.open(
-            'https://drive.google.com/file/d/1PNhnuKZymb4RT36L1KbzwBUpFwKh7eCo/view?usp=sharing',
+            'https://drive.google.com/file/d/1A1R_ij-SmCmElZYSd4_-Gk0Odk3Amsv_/view?usp=sharing',
           );
         }}
       >
